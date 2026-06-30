@@ -17,15 +17,6 @@ This repository is ideal for beginners learning **Verilog HDL**, **FPGA Design**
 * ✅ Waveform analysis for all input combinations
 * ✅ Beginner-friendly project structure
 
-## 📂 Project Contents
-
-```
-├── mux_2to1.v          # Verilog Behavioral Module
-├── mux_2to1_tb.v       # Testbench
-├── simulation/         # Simulation results
-├── waveform.png        # Output waveform (optional)
-└── README.md
-```
 
 ## 🛠️ Tools Used
 
