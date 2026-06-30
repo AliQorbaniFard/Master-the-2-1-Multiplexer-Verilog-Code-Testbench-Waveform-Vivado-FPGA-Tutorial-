@@ -1,5 +1,8 @@
 # 2:1 Multiplexer (MUX) in Verilog | Xilinx Vivado | Behavioral Modeling & Testbench
 
+<img width="1672" height="941" alt="Jun 30, 2026, 10_37_18 PM" src="https://github.com/user-attachments/assets/83889c83-11f6-42c0-8d52-b5da09787b66" />
+
+
 A complete Verilog implementation of a **2-to-1 Multiplexer (MUX)** using **Behavioral Modeling** in **Xilinx Vivado**. This project demonstrates the entire FPGA design flow, from understanding the MUX schematic to writing the Verilog code, creating a testbench, and verifying the functionality through simulation waveforms.
 
 This repository is ideal for beginners learning **Verilog HDL**, **FPGA Design**, and **Digital Logic Design**.
